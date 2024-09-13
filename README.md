@@ -2,16 +2,16 @@
 
 1. Accuracy:
 
-    - CNN without DP: 99.10%
-    - CNN with DP: 91.05%
+    - FNN without DP: 96.52%
+    - FNN with DP: 89.84%
 
-    The CNN model without Differential Privacy (DP) has about 8% higher accuracy than the model using DP. This is expected and shows the trade-off between accuracy and privacy.
+    The FNN model without Differential Privacy (DP) has about 7% higher accuracy than the model using DP. This is expected and shows the trade-off between accuracy and privacy.
 
 2. Privacy:
 
-    - CNN without DP: No special privacy protection measures.
+    - FNN without DP: No special privacy protection measures.
 
-    - CNN with DP: ε (epsilon) = 1.00
+    - FNN with DP: ε (epsilon) = 1.00
 
     Epsilon is a measure of privacy in Differential Privacy. The lower the epsilon value, the higher the privacy level. Epsilon = 1.00 is considered a fairly good privacy level in many practical applications.
 
