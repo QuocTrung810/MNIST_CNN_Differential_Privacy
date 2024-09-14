@@ -2,7 +2,7 @@
 
 1. Accuracy:
 
-    - FNN without DP: 96.52%
+    - FNN without DP: 96.31%
     - FNN with DP: 89.84%
 
     The FNN model without Differential Privacy (DP) has about 7% higher accuracy than the model using DP. This is expected and shows the trade-off between accuracy and privacy.
