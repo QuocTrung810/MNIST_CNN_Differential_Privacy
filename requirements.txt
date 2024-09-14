@@ -1,4 +1,4 @@
-torch=='2.4.0+cu124'
-torchvision=='0.19.0+cu124'
-matplotlib=='3.8.4'
-opacus=='1.5.2'
+torch==2.4.0+cu124
+torchvision==0.19.0+cu124
+matplotlib==3.8.4
+opacus==1.5.2
